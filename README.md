@@ -6,9 +6,6 @@ The Output is can be found in output.xlsx under the headings
   <li>
     tool name
   </li>
- <li>
-    tool name
-  </li>
   <li>
     tool link
   </li>
